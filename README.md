@@ -1,6 +1,6 @@
-# 🏥— API de Agendamentos Médicos
+# 🏥 Clinica — API de Agendamentos Médicos
 
-O **ClinicaMedControl** é uma API RESTful de alta performance desenvolvida para gerenciar o fluxo de agendamentos e consultas de uma clínica médica de forma inteligente, segura e automatizada. 
+O **Clinica** é uma API RESTful de alta performance desenvolvida para gerenciar o fluxo de agendamentos e consultas de uma clínica médica de forma inteligente, segura e automatizada. 
 
 O foco principal do projeto foi construir uma arquitetura de backend robusta, aplicando regras de negócio realistas, criptografia de ponta e controle rígido de segurança por níveis de acesso.
 
